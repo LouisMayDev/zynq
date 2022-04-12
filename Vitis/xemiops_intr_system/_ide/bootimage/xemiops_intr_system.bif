@@ -1,7 +1,0 @@
-//arch = zynq; split = false; format = BIN
-the_ROM_image:
-{
-	[bootloader]D:/WorkSpace/Vitis/clg400_1_emio/export/clg400_1_emio/sw/clg400_1_emio/boot/fsbl.elf
-	D:\WorkSpace\Vivado\ps_emio_clg400\ps_emio_clg400.runs\impl_1\ps_emio_wrapper.bit
-	D:/WorkSpace/Vitis/xemiops_intr/Debug/xemiops_intr.elf
-}
