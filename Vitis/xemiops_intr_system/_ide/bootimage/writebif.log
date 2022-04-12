@@ -1,0 +1,9 @@
+TRACE::2022-04-10.23:29:25::SCWBifWriter::Found the complete platform D:/WorkSpace/Vitis/clg400_1_emio/export/clg400_1_emio/clg400_1_emio.xpfm
+TRACE::2022-04-10.23:29:25::SCWBifWriter::hardware databse : ps_emio_wrapper_3
+TRACE::2022-04-10.23:29:25::SCWBifWriter::No bitstream found in the design
+TRACE::2022-04-10.23:29:25::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2022-04-10.23:29:25::SCWBifWriter::proc type : 
+TRACE::2022-04-10.23:29:25::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2022-04-10.23:29:25::SCWBifWriter::Device type is : zynq
+TRACE::2022-04-10.23:29:25::SCWBifWriter::Writing BIF to file : D:/WorkSpace/Vitis/xemiops_intr_system/_ide/bootimage/template_xemiops_intr_system.bif
+TRACE::2022-04-10.23:29:25::SCWBifWriter::Writing the Zynq Baremetal bif 
